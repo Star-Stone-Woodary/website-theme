@@ -21,6 +21,13 @@
             "menu": "footer"
           }
         },
+        "link_list_rg6Y4D": {
+          "type": "link_list",
+          "settings": {
+            "heading": "About us",
+            "menu": "about-us"
+          }
+        },
         "footer-2": {
           "type": "text",
           "settings": {
@@ -31,6 +38,7 @@
       },
       "block_order": [
         "footer-0",
+        "link_list_rg6Y4D",
         "footer-2"
       ],
       "settings": {
