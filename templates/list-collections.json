@@ -34,18 +34,11 @@
           "settings": {
             "collection": "wooden-homewares"
           }
-        },
-        "featured_collection_ckyHeh": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": ""
-          }
         }
       },
       "block_order": [
         "featured_collection_8GE4mP",
-        "featured_collection_hk6XfK",
-        "featured_collection_ckyHeh"
+        "featured_collection_hk6XfK"
       ],
       "name": "t:sections.collection-list.presets.name",
       "settings": {
