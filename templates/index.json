@@ -15,20 +15,28 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "From Dining tables to Cutting boards",
-            "heading_size": "h0"
+            "heading": "Star & Stone Woodary",
+            "heading_size": "h1"
+          }
+        },
+        "text_NizGzN": {
+          "type": "text",
+          "settings": {
+            "text": "Furniture designed and made in Melbourne with locally sourced timber",
+            "text_style": "subtitle"
           }
         }
       },
       "block_order": [
-        "heading"
+        "heading",
+        "text_NizGzN"
       ],
       "settings": {
         "image": "shopify://shop_images/IMG_2483_b8332ccb-40cc-48bf-962f-aadc0cf0b8e4.jpg",
-        "image_overlay_opacity": 40,
-        "image_height": "large",
+        "image_overlay_opacity": 60,
+        "image_height": "small",
         "image_behavior": "none",
-        "desktop_content_position": "bottom-left",
+        "desktop_content_position": "top-left",
         "desktop_content_alignment": "left",
         "show_text_box": false,
         "color_scheme": "scheme-3",
@@ -40,17 +48,10 @@
     "rich_text": {
       "type": "rich-text",
       "blocks": {
-        "heading": {
-          "type": "heading",
-          "settings": {
-            "heading": "Want something made?",
-            "heading_size": "h1"
-          }
-        },
         "text": {
           "type": "text",
           "settings": {
-            "text": "<p>We can design you something from scratch, modify an existing design, or you can browse our ready to go products</p>"
+            "text": "<p>Every piece is made to order in our Melbourne workshop. Choose an existing design, request alterations, or ask for a bespoke piece.</p><p>We specialise in Australian native timber species. Speak to us about a species for your design.</p>"
           }
         },
         "button_qkFXHF": {
@@ -66,7 +67,6 @@
         }
       },
       "block_order": [
-        "heading",
         "text",
         "button_qkFXHF"
       ],
