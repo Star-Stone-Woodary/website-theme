@@ -21,7 +21,7 @@
       "type": "featured-blog",
       "name": "t:sections.featured-blog.presets.name",
       "settings": {
-        "blog": "",
+        "blog": "characteristics-of-timbers",
         "post_limit": 3,
         "heading": "Blog posts",
         "heading_size": "h1",
