@@ -13,7 +13,7 @@
       "type": "main-page",
       "settings": {
         "padding_top": 28,
-        "padding_bottom": 0
+        "padding_bottom": 12
       }
     },
     "collapsible_content_YCjCyt": {
@@ -40,18 +40,18 @@
         "collapsible_row_VC6KDH": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
+            "heading": "I live outside of Melbourne, can I still get something shipped?",
             "icon": "none",
-            "row_content": "",
+            "row_content": "<p>It is very likely we can deliver your item, but we'll need to check manually.</p>",
             "page": ""
           }
         },
-        "collapsible_row_6cJQXP": {
+        "collapsible_row_p7BDgi": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
+            "heading": "How long does it take to make my piece?",
             "icon": "none",
-            "row_content": "",
+            "row_content": "<p>It depends how big and complicated is, a cutting board would be done in 1 day and a dining table would take a week or more</p>",
             "page": ""
           }
         }
@@ -60,7 +60,7 @@
         "collapsible_row_jTbDaH",
         "collapsible_row_63axED",
         "collapsible_row_VC6KDH",
-        "collapsible_row_6cJQXP"
+        "collapsible_row_p7BDgi"
       ],
       "name": "t:sections.collapsible_content.presets.name",
       "settings": {
@@ -71,10 +71,10 @@
         "layout": "none",
         "container_color_scheme": "",
         "color_scheme": "",
-        "open_first_collapsible_row": true,
+        "open_first_collapsible_row": false,
         "image_ratio": "adapt",
         "desktop_layout": "image_second",
-        "padding_top": 16,
+        "padding_top": 0,
         "padding_bottom": 36
       }
     }
