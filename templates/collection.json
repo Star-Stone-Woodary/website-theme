@@ -36,10 +36,34 @@
         "padding_top": 0,
         "padding_bottom": 36
       }
+    },
+    "rich_text_Tm89rB": {
+      "type": "rich-text",
+      "blocks": {
+        "text_WiW3in": {
+          "type": "text",
+          "settings": {
+            "text": "<p>We make all our items to order, and are happy to customise our designs to suit your style. Read about our order process here: </p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_WiW3in"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
     "banner",
-    "product-grid"
+    "product-grid",
+    "rich_text_Tm89rB"
   ]
 }
