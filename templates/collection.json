@@ -43,7 +43,7 @@
         "text_WiW3in": {
           "type": "text",
           "settings": {
-            "text": "<p>We make all our items to order, and are happy to customise our designs to suit your style. Read about our order process here: </p>"
+            "text": "<p>We make all our items to order, and are happy to customise our designs to suit your style. Read about our order process <a href=\"/pages/faqs\" title=\"FAQs\">Here</a></p>"
           }
         }
       },
