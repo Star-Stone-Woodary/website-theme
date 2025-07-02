@@ -11,6 +11,7 @@
   "sections": {
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
         "padding_top": 28,
         "padding_bottom": 0
@@ -20,7 +21,7 @@
       "type": "featured-blog",
       "name": "t:sections.featured-blog.presets.name",
       "settings": {
-        "blog": "characteristics-of-timbers",
+        "blog": "",
         "post_limit": 3,
         "heading": "Blog posts",
         "heading_size": "h1",
