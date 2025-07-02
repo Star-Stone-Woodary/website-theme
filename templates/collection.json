@@ -9,33 +9,8 @@
  */
 {
   "sections": {
-    "rich_text_rBkyDJ": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_MKBjFN": {
-          "type": "heading",
-          "settings": {
-            "heading": "All Products",
-            "heading_size": "h1"
-          }
-        }
-      },
-      "block_order": [
-        "heading_MKBjFN"
-      ],
-      "name": "t:sections.rich-text.presets.name",
-      "settings": {
-        "desktop_content_position": "left",
-        "content_alignment": "left",
-        "color_scheme": "",
-        "full_width": true,
-        "padding_top": 16,
-        "padding_bottom": 24
-      }
-    },
     "banner": {
       "type": "main-collection-banner",
-      "disabled": true,
       "settings": {
         "show_collection_description": true,
         "show_collection_image": false,
@@ -64,7 +39,6 @@
     }
   },
   "order": [
-    "rich_text_rBkyDJ",
     "banner",
     "product-grid"
   ]

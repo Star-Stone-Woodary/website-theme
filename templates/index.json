@@ -84,7 +84,7 @@
       "settings": {
         "collection": "all",
         "products_to_show": 8,
-        "title": "Featured products",
+        "title": "Featured designs",
         "heading_size": "h2",
         "description": "",
         "show_description": false,
@@ -113,7 +113,7 @@
         "button_zBrjXa": {
           "type": "button",
           "settings": {
-            "button_label": "See more products",
+            "button_label": "See more designs",
             "button_link": "shopify://collections",
             "button_style_secondary": false,
             "button_label_2": "",
