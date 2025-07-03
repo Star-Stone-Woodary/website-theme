@@ -17,6 +17,29 @@
         "padding_bottom": 36
       }
     },
+    "rich_text_zJ3cBU": {
+      "type": "rich-text",
+      "blocks": {
+        "text_zQdFQQ": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Check out normally if you're happy with the design as is.</p><p>If you want customisations however, contact us <a href=\"/pages/contact\" title=\"Contact\">Here</a></p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_zQdFQQ"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "desktop_content_position": "left",
+        "content_alignment": "left",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
     "cart-footer": {
       "type": "main-cart-footer",
       "blocks": {
@@ -70,6 +93,7 @@
   },
   "order": [
     "cart-items",
+    "rich_text_zJ3cBU",
     "cart-footer",
     "featured-collection"
   ]
