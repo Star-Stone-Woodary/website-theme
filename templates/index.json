@@ -32,8 +32,8 @@
         "text_NizGzN"
       ],
       "settings": {
-        "image": "shopify://shop_images/IMG_2483_b8332ccb-40cc-48bf-962f-aadc0cf0b8e4.jpg",
-        "image_overlay_opacity": 60,
+        "image": "shopify://shop_images/banner.png",
+        "image_overlay_opacity": 50,
         "image_height": "small",
         "image_behavior": "none",
         "desktop_content_position": "top-left",
