@@ -52,7 +52,14 @@
         "text_giMGdj": {
           "type": "text",
           "settings": {
-            "text": "Add to cart and check out normally if you're happy with the design as is. If you want customisations however, contact us <a href=\"/pages/contact\" title=\"Contact\">Here</a>",
+            "text": "Add to cart and check out normally if you're happy with the design as is.",
+            "text_style": "body"
+          }
+        },
+        "text_PnmALn": {
+          "type": "text",
+          "settings": {
+            "text": "If you want customisations or live outside of Melbourne however, contact us <a href=\"/pages/contact\" title=\"Contact\">Here</a>",
             "text_style": "body"
           }
         },
@@ -77,6 +84,7 @@
         "variant_picker_eiyUVP",
         "quantity_selector_CpGdwU",
         "text_giMGdj",
+        "text_PnmALn",
         "buy_buttons_PmNnxy",
         "share_Nr3hzX"
       ],
