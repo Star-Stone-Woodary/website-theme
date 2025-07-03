@@ -49,6 +49,13 @@
           "type": "quantity_selector",
           "settings": {}
         },
+        "text_giMGdj": {
+          "type": "text",
+          "settings": {
+            "text": "Add to cart and check out normally if you're happy with the design as is. If you want customisations however, contact us <a href=\"/pages/contact\" title=\"Contact\">Here</a>",
+            "text_style": "body"
+          }
+        },
         "buy_buttons_PmNnxy": {
           "type": "buy_buttons",
           "settings": {
@@ -69,6 +76,7 @@
         "price_pQL9TP",
         "variant_picker_eiyUVP",
         "quantity_selector_CpGdwU",
+        "text_giMGdj",
         "buy_buttons_PmNnxy",
         "share_Nr3hzX"
       ],
