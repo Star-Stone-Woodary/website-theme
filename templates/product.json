@@ -38,6 +38,13 @@
           "type": "price",
           "settings": {}
         },
+        "text_83P4fy": {
+          "type": "text",
+          "settings": {
+            "text": "- Includes GST",
+            "text_style": "uppercase"
+          }
+        },
         "variant_picker_eiyUVP": {
           "type": "variant_picker",
           "settings": {
@@ -81,6 +88,7 @@
         "text_CK3UJ7",
         "title_LhXQe3",
         "price_pQL9TP",
+        "text_83P4fy",
         "variant_picker_eiyUVP",
         "quantity_selector_CpGdwU",
         "text_giMGdj",
