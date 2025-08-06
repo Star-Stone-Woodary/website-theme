@@ -11,56 +11,81 @@
   "sections": {
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
         "padding_top": 28,
         "padding_bottom": 12
       }
     },
+    "rich_text_qVpTrH": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_At76pU": {
+          "type": "heading",
+          "settings": {
+            "heading": "Our design process",
+            "heading_size": "h2"
+          }
+        }
+      },
+      "block_order": [
+        "heading_At76pU"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "collapsible_content_YCjCyt": {
       "type": "collapsible-content",
       "blocks": {
+        "collapsible_row_AL3kWE": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Can I order Cutting Boards directly from the website?",
+            "icon": "none",
+            "row_content": "<p>Yes, free shipping within Australia!</p><p>Unfortunately we do not deliver outside Australia yet.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_QCYCWP": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Can I order Furniture directly from the website?",
+            "icon": "none",
+            "row_content": "<p>Yes, if the delivery address is within 40km of Melbourne. Add the design to your cart, request any customisations on the cart page, then complete checkout - <strong>no payment will be taken</strong> until we confirm the crafting timeline and any customisations with you.</p><p>Transporting furniture can be tricky! If the delivery address is outside 40km of Melbourne we can almost certainly get our design to you, but we want to make sure the piece can be delivered to your location. Tell us about your desired design and customisation on our <a href=\"/pages/request-a-design\" title=\"Request a design\">request page</a>.</p><p>Unfortunately we do not deliver outside Australia yet.</p>",
+            "page": ""
+          }
+        },
         "collapsible_row_jTbDaH": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "How does the ordering process work?",
+            "heading": "How long does it take to craft a piece?",
             "icon": "none",
-            "row_content": "<p>If you live in Melbourne and you like one of our designs as is, simply add it to the cart and check out!</p><p>However if you want customisations or or something completely new, please contact us about it.</p>",
+            "row_content": "<p>For designs already published on our website we can typically confirm any customisations with you within 2 business days. Then the crafting takes between 1 and 2 weeks, depending on the size of the design.</p><p>For most requests we currently complete and deliver the piece within 3-4 weeks.</p>",
             "page": ""
           }
         },
         "collapsible_row_63axED": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Can I get something custom made?",
+            "heading": "Can I request a completely custom design?",
             "icon": "none",
-            "row_content": "<p>Yes! Contact us <a href=\"/pages/contact\" title=\"Contact\">Here</a></p>",
-            "page": ""
-          }
-        },
-        "collapsible_row_VC6KDH": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "I live outside of Melbourne, can I still get something shipped?",
-            "icon": "none",
-            "row_content": "<p>It is very likely we can deliver your item, but we'll need to check manually.</p>",
-            "page": ""
-          }
-        },
-        "collapsible_row_p7BDgi": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "How long does it take to make my piece?",
-            "icon": "none",
-            "row_content": "<p>It depends how big and complicated is, a cutting board would be done in 1 day and a dining table would take a week or more, then shipping would be 1-2 business days.</p>",
+            "row_content": "<p>Yes! <a href=\"/pages/request-a-design\" target=\"_blank\" title=\"Request a design\">Send</a> us your requirements and ideas and we will work with you to design it.</p>",
             "page": ""
           }
         }
       },
       "block_order": [
+        "collapsible_row_AL3kWE",
+        "collapsible_row_QCYCWP",
         "collapsible_row_jTbDaH",
-        "collapsible_row_63axED",
-        "collapsible_row_VC6KDH",
-        "collapsible_row_p7BDgi"
+        "collapsible_row_63axED"
       ],
       "name": "t:sections.collapsible_content.presets.name",
       "settings": {
@@ -71,7 +96,7 @@
         "layout": "none",
         "container_color_scheme": "scheme-2",
         "color_scheme": "",
-        "open_first_collapsible_row": false,
+        "open_first_collapsible_row": true,
         "image_ratio": "adapt",
         "desktop_layout": "image_second",
         "padding_top": 0,
@@ -81,6 +106,7 @@
   },
   "order": [
     "main",
+    "rich_text_qVpTrH",
     "collapsible_content_YCjCyt"
   ]
 }

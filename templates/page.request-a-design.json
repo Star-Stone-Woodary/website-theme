@@ -11,69 +11,50 @@
   "sections": {
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
         "padding_top": 28,
         "padding_bottom": 0
       }
     },
-    "collapsible_content_YCjCyt": {
-      "type": "collapsible-content",
+    "rich_text_b44P4C": {
+      "type": "rich-text",
       "blocks": {
-        "collapsible_row_jTbDaH": {
-          "type": "collapsible_row",
+        "heading_tXLwJp": {
+          "type": "heading",
           "settings": {
-            "heading": "How does the ordering process work?",
-            "icon": "none",
-            "row_content": "<p>If you find a design you like, go to our contact page and</p>",
-            "page": ""
+            "heading": "Request a design",
+            "heading_size": "h1"
           }
         },
-        "collapsible_row_63axED": {
-          "type": "collapsible_row",
+        "text_tVJcTg": {
+          "type": "text",
           "settings": {
-            "heading": "Collapsible row",
-            "icon": "none",
-            "row_content": "",
-            "page": ""
-          }
-        },
-        "collapsible_row_VC6KDH": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Collapsible row",
-            "icon": "none",
-            "row_content": "",
-            "page": ""
-          }
-        },
-        "collapsible_row_6cJQXP": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Collapsible row",
-            "icon": "none",
-            "row_content": "",
-            "page": ""
+            "text": "<p>Customise one of our existing designs or ask for a bespoke design to fit your space and match your aesthetic. Send us a message explaining your customisations, requirements and style ideas then we will give you a quote. We typically respond to quotes based on an existing design within 2 business days, and bespoke design requests within 4 business days. <a href=\"/pages/request-a-design\" target=\"_blank\" title=\"Request a design\">Read more</a> about our design process.</p><p>After the design is finalised with the client we begin crafting the piece within 2 weeks. We expect to have your piece completed and delivered 3-4 weeks after the initial quote request.</p><p>The price listed for designs on this website are a good guide for pieces based on those designs, but timber species selection and market availability at the time can change the materials cost.</p>"
           }
         }
       },
       "block_order": [
-        "collapsible_row_jTbDaH",
-        "collapsible_row_63axED",
-        "collapsible_row_VC6KDH",
-        "collapsible_row_6cJQXP"
+        "heading_tXLwJp",
+        "text_tVJcTg"
       ],
-      "name": "t:sections.collapsible_content.presets.name",
+      "name": "t:sections.rich-text.presets.name",
       "settings": {
-        "caption": "",
-        "heading": "Collapsible content",
-        "heading_size": "h1",
-        "heading_alignment": "center",
-        "layout": "none",
-        "container_color_scheme": "",
+        "desktop_content_position": "center",
+        "content_alignment": "center",
         "color_scheme": "",
-        "open_first_collapsible_row": true,
-        "image_ratio": "adapt",
-        "desktop_layout": "image_second",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "contact_form_rHXgEk": {
+      "type": "contact-form",
+      "name": "t:sections.contact-form.presets.name",
+      "settings": {
+        "heading": "",
+        "heading_size": "h1",
+        "color_scheme": "",
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -81,6 +62,7 @@
   },
   "order": [
     "main",
-    "collapsible_content_YCjCyt"
+    "rich_text_b44P4C",
+    "contact_form_rHXgEk"
   ]
 }

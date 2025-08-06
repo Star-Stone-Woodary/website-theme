@@ -20,22 +20,14 @@
     "rich_text_jUtj4h": {
       "type": "rich-text",
       "blocks": {
-        "heading_MVUVfj": {
-          "type": "heading",
-          "settings": {
-            "heading": "About us",
-            "heading_size": "h0"
-          }
-        },
         "text_a7j6iA": {
           "type": "text",
           "settings": {
-            "text": "<p>Star & Stone Woodary is a small family business, we make furniture and endorse ethically and sustainably timber plantation practices.</p><p>Things we make: </p><ul><li>Dining tables</li><li>Desks</li><li>Coffee tables</li><li>Cutting boards</li><li>And more to come</li></ul>"
+            "text": "<h1>About us</h1><p>Star & Stone Woodary is a family timber and furniture design business. We grow native timber species in mid-north New South Wales and we design furniture in our Melbourne workshop.</p><h2>Furniture design</h2><p>Our design philosophy is <em>functionally beautiful</em>. We craft pieces to be enduring and practical, and we love to do this with attractive timber features and colour.</p><p>We source timber from sustainable local producers, primarily Australian native hardwoods. In the coming years we will source the majority of our timber from our own operation in mid-north New South Wales.</p><p>We bring our timber expertise into your space by incorporating your needs and desires. We have many designs for dining tables, desks, benchtops, and coffee tables for clients to find inspiration and then tell us their aesthetic. We also work with clients on bespoke timber projects. Use the form to contact us about your design requirements.</p><p>Find more information about our process on social media and see our finished products.</p>"
           }
         }
       },
       "block_order": [
-        "heading_MVUVfj",
         "text_a7j6iA"
       ],
       "name": "t:sections.rich-text.presets.name",
@@ -48,41 +40,33 @@
         "padding_bottom": 24
       }
     },
-    "rich_text_zjKeF7": {
+    "rich_text_VFKmFH": {
       "type": "rich-text",
       "blocks": {
-        "heading_aqn6ki": {
-          "type": "heading",
-          "settings": {
-            "heading": "Check us out on social media!",
-            "heading_size": "h2"
-          }
-        },
-        "text_z7Qdpk": {
+        "text_MCGbMN": {
           "type": "text",
           "settings": {
-            "text": "<p><a href=\"https://www.instagram.com/star_and_stone_woodary/\" title=\"https://www.instagram.com/star_and_stone_woodary/\">Instagram</a></p><p><a href=\"https://www.youtube.com/@StarStoneWoodary\" title=\"https://www.youtube.com/@StarStoneWoodary\">Youtube</a></p><p><a href=\"https://www.tiktok.com/@star_and_stone_woodary\" title=\"https://www.tiktok.com/@star_and_stone_woodary\">TikTok</a></p><p><a href=\"https://www.facebook.com/profile.php?id=61577993608737\" title=\"https://www.facebook.com/profile.php?id=61577993608737\">Facebook</a></p>"
+            "text": "<p><a href=\"https://www.instagram.com/star_and_stone_woodary/\" title=\"https://www.instagram.com/star_and_stone_woodary/\">Instagram</a> ~ <a href=\"https://www.youtube.com/@StarStoneWoodary\" title=\"https://www.youtube.com/@StarStoneWoodary\">YouTube</a> ~ <a href=\"https://www.tiktok.com/@star_and_stone_woodary\" title=\"https://www.tiktok.com/@star_and_stone_woodary\">TikTok</a> ~ <a href=\"https://www.facebook.com/profile.php?id=61577993608737\" title=\"https://www.facebook.com/profile.php?id=61577993608737\">Facebook</a></p>"
           }
         }
       },
       "block_order": [
-        "heading_aqn6ki",
-        "text_z7Qdpk"
+        "text_MCGbMN"
       ],
       "name": "t:sections.rich-text.presets.name",
       "settings": {
         "desktop_content_position": "center",
-        "content_alignment": "left",
+        "content_alignment": "center",
         "color_scheme": "",
         "full_width": true,
-        "padding_top": 24,
-        "padding_bottom": 44
+        "padding_top": 40,
+        "padding_bottom": 52
       }
     }
   },
   "order": [
     "main",
     "rich_text_jUtj4h",
-    "rich_text_zjKeF7"
+    "rich_text_VFKmFH"
   ]
 }
