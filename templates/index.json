@@ -51,24 +51,12 @@
         "text": {
           "type": "text",
           "settings": {
-            "text": "<p>Every piece is made to order in our Melbourne workshop. Choose an existing design, request alterations, or ask for a bespoke piece.</p><p>We specialise in Australian native timber species. Speak to us about a species for your design.</p>"
-          }
-        },
-        "button_qkFXHF": {
-          "type": "button",
-          "settings": {
-            "button_label": "Contact us",
-            "button_link": "shopify://pages/contact",
-            "button_style_secondary": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
+            "text": "<p>Every piece is <a href=\"/pages/faqs\" title=\"FAQs\">made to order</a> in our Melbourne workshop. Choose an existing design, request alterations, or ask for a bespoke piece.</p><p>We specialise in Australian native timber species. <a href=\"/pages/request-a-design\" title=\"Request a design\">Speak to us</a> about a species for your design.</p>"
           }
         }
       },
       "block_order": [
-        "text",
-        "button_qkFXHF"
+        "text"
       ],
       "settings": {
         "desktop_content_position": "center",
