@@ -538,16 +538,16 @@
     "checkout": {
       "merchandise_unavailable_in_buyer_location": {
         "banner_title": {
-          "some_products_one": "Unfortunately we don't automatically deliver furniture to your address, please [request the design](https://starandstonewoodary.com.au/pages/request-a-design).",
-          "some_products_other": "Unfortunately we don't automatically deliver furniture to your address, please [request the design](https://starandstonewoodary.com.au/pages/request-a-design).",
-          "all_products_one": "Unfortunately we don't automatically deliver furniture to your address, please [request the design](https://starandstonewoodary.com.au/pages/request-a-design).",
-          "all_products_other": "Unfortunately we don't automatically deliver furniture to your address, please [request the design](https://starandstonewoodary.com.au/pages/request-a-design)."
+          "some_products_one": "Unfortunately we don't automatically deliver furniture to your address, please <a href=\"/pages/request-a-design\">request the design>.",
+          "some_products_other": "Unfortunately we don't automatically deliver furniture to your address, please <a href=\"/pages/request-a-design\">request the design>.",
+          "all_products_one": "Unfortunately we don't automatically deliver furniture to your address, please <a href=\"/pages/request-a-design\">request the design>.",
+          "all_products_other": "Unfortunately we don't automatically deliver furniture to your address, please <a href=\"/pages/request-a-design\">request the design>."
         }
       },
       "shipping_errors": {
         "shipping_method_not_available_updated": {
-          "one": "Unfortunately we don't automatically deliver furniture to your address, please [request the design](https://starandstonewoodary.com.au/pages/request-a-design).",
-          "other": "Unfortunately we don't automatically deliver furniture to your address, please [request the design](https://starandstonewoodary.com.au/pages/request-a-design)."
+          "one": "Unfortunately we don't automatically deliver furniture to your address, please <a href=\"/pages/request-a-design\">request the design>.",
+          "other": "Unfortunately we don't automatically deliver furniture to your address, please <a href=\"/pages/request-a-design\">request the design>."
         }
       }
     }
