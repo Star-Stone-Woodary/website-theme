@@ -56,9 +56,9 @@
         "collapsible_row_QCYCWP": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Can I order Furniture directly from the website?",
+            "heading": "Can I order Furniture directly from the website, and how much does shipping cost?",
             "icon": "none",
-            "row_content": "<p>Yes, if the delivery address is within 40km of Melbourne. Add the design to your cart, request any customisations on the cart page, then complete checkout - <strong>no payment will be taken</strong> until we confirm the crafting timeline and any customisations with you.</p><p>Transporting furniture can be tricky! If the delivery address is outside 40km of Melbourne we can almost certainly get our design to you, but we want to make sure the piece can be delivered to your location. Tell us about your desired design and customisation on our <a href=\"/pages/request-a-design\" title=\"Request a design\">request page</a>.</p><p>Unfortunately we do not deliver outside Australia yet.</p>",
+            "row_content": "<p>Yes, if the delivery address is within 25km of Melbourne. Orders over $1000 get free shipping.</p><p>Add the design to your cart, request any customisations on the cart page, then complete checkout - <strong>no payment will be taken</strong> until we confirm the crafting timeline and any customisations with you.</p><p>Transporting furniture can be tricky! If the delivery address is outside 25km of Melbourne we can almost certainly get our design to you, but we want to make sure the piece can be delivered to your location. Tell us about your desired design and customisation on our <a href=\"/pages/request-a-design\" title=\"Request a design\">request page</a>.</p><p>Unfortunately we do not deliver outside Australia yet.</p>",
             "page": ""
           }
         },
