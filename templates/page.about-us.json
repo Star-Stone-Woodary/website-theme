@@ -62,11 +62,43 @@
         "padding_top": 40,
         "padding_bottom": 52
       }
+    },
+    "rich_text_JjWhCf": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_pdyJD6": {
+          "type": "heading",
+          "settings": {
+            "heading": "Australian native timber plantation",
+            "heading_size": "h2"
+          }
+        },
+        "text_cDbbJp": {
+          "type": "text",
+          "settings": {
+            "text": "<p>The long-term goal for our business is to develop a sustainable native timber plantation and sawmill on our property in Coolongolook, on the mid-north coast of New South Wales. The property began to be cleared by our family in the mid-1930s to establish a dairy farm, later in the 1970s transitioning to a beef cattle farm. Now we see great value in regenerating the land as a sustainable forestry operation.</p><p><em>Our vision</em> is to establish a mixed-species native timber plantation with maintenance practiced to ensure growth of excellent quality timber, and a selective harvesting schedule that gradually transitions into a beautiful forest with a <em>commercial</em> and <em>sustainable</em> future.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_pdyJD6",
+        "text_cDbbJp"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
     "main",
     "rich_text_jUtj4h",
-    "rich_text_VFKmFH"
+    "rich_text_VFKmFH",
+    "rich_text_JjWhCf"
   ]
 }
