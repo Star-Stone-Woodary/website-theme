@@ -40,6 +40,7 @@
         },
         "text_83P4fy": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "- Includes GST",
             "text_style": "uppercase"
