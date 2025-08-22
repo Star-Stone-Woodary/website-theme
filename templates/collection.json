@@ -11,10 +11,35 @@
   "sections": {
     "banner": {
       "type": "main-collection-banner",
+      "disabled": true,
       "settings": {
         "show_collection_description": true,
         "show_collection_image": false,
         "color_scheme": "scheme-1"
+      }
+    },
+    "rich_text_NxEQNw": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_aqQfMJ": {
+          "type": "heading",
+          "settings": {
+            "heading": "Designs",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "heading_aqQfMJ"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "desktop_content_position": "left",
+        "content_alignment": "left",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
       }
     },
     "product-grid": {
@@ -63,6 +88,7 @@
   },
   "order": [
     "banner",
+    "rich_text_NxEQNw",
     "product-grid",
     "rich_text_Tm89rB"
   ]
