@@ -17,14 +17,14 @@
         "footer-0": {
           "type": "link_list",
           "settings": {
-            "heading": "Support",
+            "heading": "About",
             "menu": "footer"
           }
         },
         "link_list_rg6Y4D": {
           "type": "link_list",
           "settings": {
-            "heading": "About us",
+            "heading": "Support",
             "menu": "about-us"
           }
         },
