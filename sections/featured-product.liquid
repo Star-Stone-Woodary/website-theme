@@ -432,10 +432,6 @@
                       </p>
                     </div>
                   {%- endif -%}
-                {%- when 'description' -%}
-                  <div class="product__description rte" {{ block.shopify_attributes }}>
-                    {{ product.description }}
-                  </div>
                 {%- when 'icon-with-text' -%}
                   {% render 'icon-with-text', block: block %}
               {%- endcase -%}
