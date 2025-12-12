@@ -34,13 +34,6 @@
             "heading_size": "h1"
           }
         },
-        "text_J8HCkB": {
-          "type": "text",
-          "settings": {
-            "text": "Text block",
-            "text_style": "body"
-          }
-        },
         "price_pQL9TP": {
           "type": "price",
           "settings": {}
@@ -88,7 +81,6 @@
       "block_order": [
         "text_CK3UJ7",
         "title_LhXQe3",
-        "text_J8HCkB",
         "price_pQL9TP",
         "text_83P4fy",
         "variant_picker_eiyUVP",
